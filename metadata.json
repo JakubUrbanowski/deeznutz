@@ -1,0 +1,16 @@
+{
+  "name": "Deez Nutz",
+  "symbol": "DNUTZ",
+  "description": "Big golden nuts, proudly pointed at—because these are Deez Nutz.",
+  "image": "https://example.com/logo.png",
+  "external_url": "https://example.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://example.com/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
