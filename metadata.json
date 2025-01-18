@@ -2,12 +2,12 @@
   "name": "Deez Nutz",
   "symbol": "DNUTZ",
   "description": "Big golden nuts, proudly pointed at—because these are Deez Nutz.",
-  "image": "https://raw.githubusercontent.com/JakubUrbanowski/deeznutz/refs/heads/main/deeznutz.webp",
+  "image": "https://raw.githubusercontent.com/JakubUrbanowski/deeznutz/refs/heads/main/deeznutz.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/JakubUrbanowski/deeznutz/refs/heads/main/deeznutz.webp",
+        "uri": "https://raw.githubusercontent.com/JakubUrbanowski/deeznutz/refs/heads/main/deeznutz.png",
         "type": "image/webp"
       }
     ]
