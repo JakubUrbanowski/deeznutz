@@ -10,6 +10,10 @@
         "uri": "https://raw.githubusercontent.com/JakubUrbanowski/deeznutz/refs/heads/main/deeznutz.png",
         "type": "image/webp"
       }
-    ]
+    ],
+    "socials": {
+      "telegram": "https://t.me/SOL_DNUTZ",
+      "twitter": "https://x.com/AltOncologist"
+    }
   }
 }
